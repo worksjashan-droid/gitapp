@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/worksjashan1210/Az400/_apis/build/status%2Fworksjashan-droid.gitapp?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/worksjashan1210/Az400/_build/latest?definitionId=1&branchName=refs%2Fpull%2F1%2Fmerge)
